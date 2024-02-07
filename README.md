@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfishtrom
 - 👀 I’m interested in UI/UX Design.
-- 🌱 I’m currently learning more about Project Management.
-- 💞️ I’m looking to collaborate on any ReactJS projects.
+- 🌱 I’m currently learning more about Web Design.
+- 💞️ I’m looking to collaborate on any front-end projects.
 - 📫 mfishtrom@gmail.com
 
 <!---
